@@ -1,4 +1,4 @@
-# Weights-Initialization-in-Nueral-Networks
+# Weights-Initialization-in-Neural-Networks
 Weight Initialization Techniques in Neural Networks
 
 •	Weight initialization: 
